@@ -1,2 +1,1 @@
-# xauusd-trading-ai
-Trading AI focused on XAUUSD with macro news blocking and technical decision engine
+requests>=2.31.0
